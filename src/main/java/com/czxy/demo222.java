@@ -1,8 +1,7 @@
 package com.czxy;
 
-public class demo111 {
+public class demo222 {
     public static void main(String[] args) {
-        System.out.println("aaa");
-
+        System.out.println(22222);
     }
 }
